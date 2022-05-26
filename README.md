@@ -1,2 +1,2 @@
 # Django-Project
-Back-end developing practice
+This project is created to learn back end development using django
